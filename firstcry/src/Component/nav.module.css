@@ -1,0 +1,32 @@
+
+
+
+.frst {
+   
+    /* display: none; */
+    border: 1px solid red;
+    
+}
+
+.ffrst {
+    display: flex;
+
+}
+
+.mydiv:hover + .frst {
+    display: block;
+
+    
+}
+.mydiv {
+    cursor: pointer;
+  
+
+}
+
+.scnd {
+   
+ border: 1px solid black;
+ width: 13%;
+ margin-top: 46px;
+}
