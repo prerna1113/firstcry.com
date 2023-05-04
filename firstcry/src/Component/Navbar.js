@@ -106,7 +106,7 @@ function Navbar() {
 
             <Box className={styles.frst} >
                 <Box className={styles.ffrst}>
-                    <Box    border='1px' borderColor='gray.200' alignItems={'center'} w="14%" p={2} 
+                    <Box  className={styles.first}  border='1px' borderColor='gray.200' alignItems={'center'} w="14%" p={2} 
                     fontWeight={500}
                     bg="gray.50"
                     mb={3}
@@ -138,6 +138,7 @@ function Navbar() {
                        <h4>PRESCHOOL ADDMISSIONS</h4>
 
                     </Box>
+                    <Box className={styles.scroll}>
 
                     <Box className= {styles.scnd}>
                         <Text>SHOP BY CATEGORY</Text>
@@ -169,13 +170,13 @@ function Navbar() {
 
                     </Box>
                     <Box className={styles.third}>
-                        <Text>Shop By Collection</Text>
+                        <Text>SHOP BY COLLECTION</Text>
                         <Text>Splash in Summer</Text>
                         <Text>Bestsellers</Text>
                         <Text>Multi-packs</Text>
                         <Text>Baby Essentials</Text>
                         <hr></hr>
-                        <Text>Fashion Accessories</Text>
+                        <Text>FASHION ACCESSORIES</Text>
                         <Text>Sunglasses New</Text>
                         <Text>Summer Caps New</Text>
                         <Text>Watches</Text>
@@ -195,9 +196,64 @@ function Navbar() {
                         <hr></hr>
 
 
+                    </Box >
+
+                    <Box className={styles.forth}>
+                        <Text>SHOP BY AGE</Text>
+                        <Text>Preemie/Tine Preemie</Text>
+                        <Text>New Born(0-3)</Text>
+                        <Text>3-6 Months</Text>
+                        <Text>6-9 Months</Text>
+                        <Text>9-12 Months</Text>
+                        <Text>12-18 Months</Text>
+                        <Text>18-24 Months</Text>
+                        <Text>2 to 4 Years</Text>
+                        <Text>4 to 6 Years</Text>
+                        <Text>6 to 8 Years</Text>
+                        <Text>8+ Years</Text>
+                        <hr></hr>
+                        <Text>SHOP BY PRICE</Text>
+                        <Text>All Under 199</Text>
+                        <Text> All Under 299</Text>
+                        <Text>All Under 399</Text>
+                        <Text>All Under 499</Text>
+                        <hr></hr>
+                        <Text>SHOP BY BRANDS</Text>
+
+                        <Text>Babyhug</Text>
+                        <Text>Babyoye</Text>
+                        <Text>Kookie Kids</Text>
+                        <Text> Carter's</Text>
+                        <Text>Pine Kids</Text>
+                        <Text>Cute Walk</Text>
+                        <Text>Honeyhap</Text>
+                        <Text>OLLINGSTON ST.</Text>
+                        <Text>Doodle Poodle</Text>
+                        <Text>Primo Gino</Text>
+                        <Text>Mark & Mia</Text>
+                        <Text>Bonfino</Text>
+                        <Text>Earthy Touch</Text>
+                        <Text>Arias By Lara Dutta</Text>
+                        <Text> Pine Active</Text>
+                        <Text> ToffyHouse</Text>
+                        <Text>Ed-a-mamma</Text>
+                        <Text>UCB</Text>
+                        <Text>U.S.Polo Ass.Kids</Text>
+                        <Text>Monte Carlo</Text>
+                        <Text>Gini & Jony</Text>
+                        <Text>Puma</Text>
+                        <Text>Tommy Hilgfiger</Text>
+                        <Text>ADIDAS KIDS</Text>
+                        <Text>RUFF</Text>
+
+                        
+
+
                     </Box>
-                    <Box className={styles.forth}></Box>
-                    <Box className={styles.fifth}></Box>
+                    <Box className={styles.fifth}>
+                        <img src="https://cdn.fcglcdn.com/brainbees/images/n/rhs_splash_in_summer_26042023_02.jpg"/>
+                    </Box>
+                    </Box>
 
                   </Box>
                   </Box>
