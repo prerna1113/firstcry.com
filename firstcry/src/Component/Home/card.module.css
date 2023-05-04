@@ -1,0 +1,23 @@
+.card {
+    display:grid;
+   grid-template-columns: repeat(3,1fr);
+  width:75%;
+  height:auto;
+  gap:17px;
+  margin-left: 100px;
+ 
+ 
+}
+.box {
+    width:88%;
+    height:65px;
+    /* border:1px solid black; */
+    margin-left: 100px;
+    background-color: white;
+    margin-top: 24px;
+    border-radius: 5px;
+    text-align: center;
+   
+
+}
+
