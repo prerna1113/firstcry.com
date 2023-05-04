@@ -27,6 +27,19 @@
 .scnd {
    
  border: 1px solid black;
- width: 13%;
+ width: 17%;
  margin-top: 46px;
+}
+
+.third {
+    border: 1px solid black;
+ width: 17%;
+ margin-top: 46px;
+
+}
+.forth{
+    border: 1px solid black;
+ width: 17%;
+ margin-top: 46px;
+
 }

@@ -156,19 +156,48 @@ function Navbar() {
                         <Text>Bath Time</Text>
                         <Text>Swim Wear</Text>
                         <Text>Athleisure & Soprtswear</Text>
-                        <Text></Text>
-                        <Text></Text>
-                        <Text></Text>
-                        <Text></Text>
-                        <Text></Text>
-                        <Text></Text>
-                        <Text></Text>
+                        <Text>Sweatshirts</Text>
+                        <Text>Jackets</Text>
+                        <Text>Sweaters</Text>
+                        <Text>Thermals</Text>
+                        <Text>Socks</Text>
+                        <Text>Rainwear</Text>
+                        <Text>Theme Costumes</Text>
+                        <Text>View All</Text>
                         
 
+
                     </Box>
-                    <Box></Box>
-                    <Box></Box>
-                    <Box></Box>
+                    <Box className={styles.third}>
+                        <Text>Shop By Collection</Text>
+                        <Text>Splash in Summer</Text>
+                        <Text>Bestsellers</Text>
+                        <Text>Multi-packs</Text>
+                        <Text>Baby Essentials</Text>
+                        <hr></hr>
+                        <Text>Fashion Accessories</Text>
+                        <Text>Sunglasses New</Text>
+                        <Text>Summer Caps New</Text>
+                        <Text>Watches</Text>
+                        <Text>Ties,Belts,Sunpenders</Text>
+                        <Text>Bags</Text>
+                        <Text>Kids Umberellas</Text>
+                        <hr></hr>
+                        <Text>FOOTWEAR</Text>
+                        <Text>Clogs New</Text>
+                        <Text>Flip Flops New</Text>
+                        <Text>Sandals New</Text>
+                        <Text>Casuals New</Text>
+                        <Text>Formal & Partywear</Text>
+
+                        <Text>Booties</Text>
+                        <Text>Sneakers & Sports Shoes</Text>
+                        <hr></hr>
+
+
+                    </Box>
+                    <Box className={styles.forth}></Box>
+                    <Box className={styles.fifth}></Box>
 
                   </Box>
                   </Box>
