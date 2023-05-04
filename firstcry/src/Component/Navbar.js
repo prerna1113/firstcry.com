@@ -146,6 +146,16 @@ function Navbar() {
                         <Text>Shorts New</Text>
                         <Text>Nightwear</Text>
                         <Text>Jeans & Trousers</Text>
+                        <Text>Onesies & Rompers</Text>
+                        <Text>Shirts New</Text>
+                        <Text>Party Wear</Text>
+                        <Text>Pajamas & Joggers</Text>
+                        <Text>Ethnic Wear</Text>
+                        <Text>Inner Wear</Text>
+                        <Text>Caps & Gloves</Text>
+                        <Text>Bath Time</Text>
+                        <Text>Swim Wear</Text>
+                        <Text>Athleisure & Soprtswear</Text>
                         <Text></Text>
                         <Text></Text>
                         <Text></Text>
@@ -153,9 +163,7 @@ function Navbar() {
                         <Text></Text>
                         <Text></Text>
                         <Text></Text>
-                        <Text></Text>
-                        <Text></Text>
-                        <Text></Text>
+                        
 
                     </Box>
                     <Box></Box>
