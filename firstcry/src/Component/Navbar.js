@@ -106,12 +106,13 @@ function Navbar() {
 
             <Box className={styles.frst} >
                 <Box className={styles.ffrst}>
-                    <Box  className={styles.first}  border='1px' borderColor='gray.200' alignItems={'center'} w="14%" p={2} 
+                    <Box  className={styles.first}  border='1px' borderColor='gray.200' alignItems={'center'} w="18%" p={2} 
                     fontWeight={500}
                     bg="gray.50"
+                    
                     mb={3}
                     
-                    ml={14} textAlign={[ 'left']} fontSize={14}>
+                     textAlign={[ 'left']} fontSize={14}>
 
                       <Text  >ALL CATEGORIES</Text>
                        <h4 textAlign="center">BOYS FASHION</h4>
@@ -132,13 +133,14 @@ function Navbar() {
                        <h4>SCHOOL SUPPLIES</h4>
                        <h4>OFFERS</h4>
                        <h4>STORES & PRESCHOOLS</h4>
-                       <img src="https://cdn.fcglcdn.com/brainbees/images/n/club_logo_small.png"/>
-                       <img src="https://cdn.fcglcdn.com/brainbees/banners/new_menu_carters.png"/>
-                       <img src="https://cdn.fcglcdn.com/brainbees/images/n/Intelli%20Education%20Logo%20360.png"/>
+                       <img src="https://cdn.fcglcdn.com/brainbees/images/n/club_logo_small.png" marginTop="2px"/>
+                       <img src="https://cdn.fcglcdn.com/brainbees/banners/new_menu_carters.png" marginTop="5px"/>
+                       <img src="https://cdn.fcglcdn.com/brainbees/images/n/Intelli%20Education%20Logo%20360.png" marginTop="5px"/>
                        <h4>PRESCHOOL ADDMISSIONS</h4>
 
                     </Box>
                     <Box className={styles.scroll}>
+                        <hr></hr>
 
                     <Box className= {styles.scnd}>
                         <Text>SHOP BY CATEGORY</Text>
@@ -175,7 +177,9 @@ function Navbar() {
                         <Text>Bestsellers</Text>
                         <Text>Multi-packs</Text>
                         <Text>Baby Essentials</Text>
+                        <br></br>
                         <hr></hr>
+                        <br></br>
                         <Text>FASHION ACCESSORIES</Text>
                         <Text>Sunglasses New</Text>
                         <Text>Summer Caps New</Text>
@@ -183,7 +187,9 @@ function Navbar() {
                         <Text>Ties,Belts,Sunpenders</Text>
                         <Text>Bags</Text>
                         <Text>Kids Umberellas</Text>
+                       <br></br>
                         <hr></hr>
+                        <br></br>
                         <Text>FOOTWEAR</Text>
                         <Text>Clogs New</Text>
                         <Text>Flip Flops New</Text>
@@ -193,7 +199,9 @@ function Navbar() {
 
                         <Text>Booties</Text>
                         <Text>Sneakers & Sports Shoes</Text>
+                        <br></br>
                         <hr></hr>
+                        <br></br>
 
 
                     </Box >
@@ -211,13 +219,17 @@ function Navbar() {
                         <Text>4 to 6 Years</Text>
                         <Text>6 to 8 Years</Text>
                         <Text>8+ Years</Text>
+                       <br></br>
                         <hr></hr>
+                        <br></br>
                         <Text>SHOP BY PRICE</Text>
                         <Text>All Under 199</Text>
                         <Text> All Under 299</Text>
                         <Text>All Under 399</Text>
                         <Text>All Under 499</Text>
+                       <br></br>
                         <hr></hr>
+                        <br></br>
                         <Text>SHOP BY BRANDS</Text>
 
                         <Text>Babyhug</Text>
@@ -251,7 +263,7 @@ function Navbar() {
 
                     </Box>
                     <Box className={styles.fifth}>
-                        <img src="https://cdn.fcglcdn.com/brainbees/images/n/rhs_splash_in_summer_26042023_02.jpg"/>
+                        <img  style={{marginTop:"18px",width:"85%"}} src="https://cdn.fcglcdn.com/brainbees/images/n/rhs_splash_in_summer_26042023_02.jpg" />
                     </Box>
                     </Box>
 
