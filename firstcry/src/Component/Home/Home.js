@@ -107,6 +107,29 @@ function Home(props) {
                     <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_05.jpg"/>
                     <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_06.jpg"/>
                 </Box>
+
+                <Box>
+                    <img src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_07.jpg" />
+                </Box>
+                <Box className={styles.sixthCard}>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_08.jpg"/>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_09.jpg" />
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_10.jpg"/>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_11.jpg"/>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_12.jpg"/>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_13.jpg"/>
+                </Box>
+                <Box className={styles.sixthCard}>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_14.jpg"/>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_15.jpg" />
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_16.jpg"/>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_17.jpg"/>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_182.jpg"/>
+                    <img  className={styles.imgOne} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_19.jpg"/>
+                </Box>
+                <Box className={styles.seventhCard}>
+                    <img src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_moms_&_maternity_210323_01.jpg" />
+                </Box>
             </Box>
             </Box>
 
