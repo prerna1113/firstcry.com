@@ -98,6 +98,15 @@ function Home(props) {
                     <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_40.jpg"/>
                     <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_41.jpg"/>
                 </Box>
+
+                <Box className={styles.fifthCard}>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_01.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_02.jpg" />
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_03.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_04.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_05.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_health_&_safty_210323_06.jpg"/>
+                </Box>
             </Box>
             </Box>
 

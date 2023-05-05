@@ -23,7 +23,7 @@
 }
 
 .scndCard {
-    border:1px solid red;
+    /* border:1px solid red; */
     
 }
 
@@ -55,7 +55,12 @@
 }
 .forthCard {
     display: flex;
-    width:89.3%;
+    width:89.2%;
     margin-left: 100px;
 }
 
+.fifthCard {
+    display: flex;
+    width:214px;
+    margin-left: 6.94%;
+}
