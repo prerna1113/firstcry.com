@@ -10,14 +10,41 @@
 }
 .box {
     width:88%;
-    height:55px;
+    height:70px;
     /* border:1px solid black; */
     margin-left: 100px;
     background-color: white;
     margin-top: 24px;
     border-radius: 5px;
     text-align: center;
+    padding:10px;
    
 
+}
+
+.scndCard {
+    border:1px solid red;
+}
+
+.teddy {
+   width:90.8%;
+   margin:auto;
+   padding:20px;
+   margin-left: 80px;
+  
+}
+
+.thirdCard {
+    display:flex;
+    width:17.7%;
+    /* border: 1px solid black; */
+    /* margin:auto; */
+    margin-left: 92px;
+}
+
+ .img{
+    border-radius:5px;
+    width:280px;
+    height:350px;
 }
 

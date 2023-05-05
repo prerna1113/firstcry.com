@@ -75,10 +75,24 @@ function Home(props) {
             
 
             </Box>
-            <div className={styles.box}>
-               <h1 style={{fontFamily:"550px",padding:"32px"}}> View All Botiques</h1>
+            <div className={styles.box} >
+               <h1 style={{fontFamily:"550px",padding:"10px"}}> View All Botiques</h1>
             </div>
+            <Box className={styles.scndCard} >
+                <Box className={styles.teddy}>
+                    <img  style={{borderRadius:"8px"}} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_31.jpg" />
+                </Box>
+                <Box className={styles.thirdCard}>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_32.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_33.jpg" />
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_34.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_35.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_36.jpg"/>
+                </Box>
             </Box>
+            </Box>
+
+           
         </div>
     )
 }
