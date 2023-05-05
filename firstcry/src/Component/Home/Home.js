@@ -76,7 +76,7 @@ function Home(props) {
 
             </Box>
             <div className={styles.box}>
-               <h1 style={{marginTop:"18px" ,fontFamily:"550px"}}> View All Botiques</h1>
+               <h1 style={{fontFamily:"550px",padding:"32px"}}> View All Botiques</h1>
             </div>
             </Box>
         </div>
