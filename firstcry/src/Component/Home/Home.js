@@ -80,7 +80,7 @@ function Home(props) {
             </div>
             <Box className={styles.scndCard} >
                 <Box className={styles.teddy}>
-                    <img  style={{borderRadius:"8px"}} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_31.jpg" />
+                    <img  style={{borderRadius:"4px"}} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_31.jpg" />
                 </Box>
                 <Box className={styles.thirdCard}>
                     <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_32.jpg"/>
@@ -89,8 +89,20 @@ function Home(props) {
                     <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_35.jpg"/>
                     <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_36.jpg"/>
                 </Box>
+
+               
+                <Box className={styles.forthCard}>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_37.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_38.jpg" />
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_39.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_40.jpg"/>
+                    <img  className={styles.img} src="https://cdn.fcglcdn.com/brainbees/images/cattemplate/summer_desktop_nursery_210323_41.jpg"/>
+                </Box>
             </Box>
             </Box>
+
+            
+            
 
            
         </div>

@@ -24,27 +24,38 @@
 
 .scndCard {
     border:1px solid red;
+    
 }
 
 .teddy {
-   width:90.8%;
+   width:92%;
    margin:auto;
    padding:20px;
    margin-left: 80px;
+   
   
 }
 
 .thirdCard {
     display:flex;
-    width:17.7%;
+    width:256.8px;
     /* border: 1px solid black; */
     /* margin:auto; */
-    margin-left: 92px;
+    margin-left: 100px;
+    margin-top: -21px;
+    border-radius:8px;
+    /* padding:0px;
+    border:1px solid red; */
 }
 
  .img{
-    border-radius:5px;
-    width:280px;
+    border-radius:1px;
+    width:260px;
     height:350px;
+}
+.forthCard {
+    display: flex;
+    width:89.3%;
+    margin-left: 100px;
 }
 
