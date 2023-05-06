@@ -4,6 +4,7 @@ import Navbar from './Component/Navbar';
 import Slideshow from './Component/Slideshow';
 import Cards from './Component/Home/Cards';
 import Home from './Component/Home/Home';
+import Footer from './Component/Home/Footer';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Slideshow />
       {/* <Cards /> */}
       <Home />
+      <Footer />
       
       
     </div>
